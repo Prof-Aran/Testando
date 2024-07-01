@@ -1,0 +1,27 @@
+h2{
+    color: rgb(255, 0, 195)
+}
+
+body{
+    background-color: #ffb5fd;
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid white;
+}
+
+footer{
+    border-top: 1px solid white;
+}
+
+#nome-usuário{
+    font-weight: bold;
+
+}
+    
+.texto-inglês {
+    font-style: italic;
+}
